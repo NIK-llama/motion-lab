@@ -12,4 +12,4 @@ gsap.to(".card", {
     repeat: -1,
     repeatDelay: 0.50,
     // paused: true,
-})
+}) 
