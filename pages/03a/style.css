@@ -1,0 +1,23 @@
+.boxG,
+.boxP {
+  width: 150px;
+  height: 150px;
+  border-radius: 12px;
+
+  display: flex;
+  align-items: center;     /* vertical center */
+  justify-content: center; /* horizontal center */
+
+  color: white;
+  font-weight: bold;
+
+  margin: 100px;
+}
+
+.boxG {
+  background-color: hsl(120, 92%, 39%);
+}
+
+.boxP {
+  background-color: hsl(260, 80%, 60%);
+}
